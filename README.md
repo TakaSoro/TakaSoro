@@ -23,6 +23,8 @@ I enjoy working with modern web technologies to create clean, data-driven interf
 
 TODO
 
+I'm still uploading my personal projects one by one.
+
 ---
 
 ### 📬 Connect With Me
