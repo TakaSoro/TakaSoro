@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/208436932?v=4" width="200" alt="TakaSoro Avatar" />
+  
+  <h1>Hi, I'm TakaSoro</h1>
+  <p>High School Student & Developer & Researcher</p>
+</div>
 
-<!--
-**TakaSoro/TakaSoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 About Me
+Welcome to my GitHub profile. I am a developer passionate about showcasing research, software projects, and academic achievements. I maintain a centralized portfolio to document my progress, laboratory work, and technical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+I enjoy working with modern web technologies to create clean, data-driven interfaces.
+*   **Languages:** JavaScript, Python, HTML, C
+*   **Libraries/Tools:** TODO
+
+---
+
+### 🚀 Featured Projects
+
+TODO
+
+---
+
+### 📬 Connect With Me
+*   **GitHub:** [github.com/TakaSoro](https://github.com/TakaSoro)
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/TakaSoro?style=social" alt="Followers" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TakaSoro&langs_count=4&theme=gruvbox_light" alt="Top Langs" />
+</div>
