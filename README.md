@@ -33,7 +33,7 @@ I'm still uploading my personal projects one by one.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20mins-blue?style=flat)
 
@@ -78,16 +78,25 @@ Sunday                   7 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 18 mins        ███████████░░░░░░░░░░░░░░   45.46 % 
+JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 41 mins       ███████████████████████░░   93.40 % 
+Notepad++                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+README                   1 hr 33 mins        ██████████████░░░░░░░░░░░   54.42 % 
+portfolio                54 mins             ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+find_reason              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+test_conj                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +121,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 15:39:28 UTC
+ Last Updated on 11/08/2026 16:36:11 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
