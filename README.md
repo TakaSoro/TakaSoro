@@ -33,6 +33,82 @@ I'm still uploading my personal projects one by one.
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 27 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                18 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌆 Daytime                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌃 Evening                16 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Tuesday                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                15 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 15 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Sunday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/08/2026 02:43:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
