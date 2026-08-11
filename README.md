@@ -32,6 +32,9 @@ I'm still uploading my personal projects one by one.
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <img src="https://img.shields.io/github/followers/TakaSoro?style=social" alt="Followers" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TakaSoro&langs_count=4&theme=gruvbox_light" alt="Top Langs" />
