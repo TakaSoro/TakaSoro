@@ -123,8 +123,3 @@ C                        1 repo              ████░░░░░░░�
 
  Last Updated on 12/08/2026 00:42:49 UTC
 <!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/TakaSoro?style=social" alt="Followers" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TakaSoro&langs_count=4&theme=gruvbox_light" alt="Top Langs" />
-</div>
