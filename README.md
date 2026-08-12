@@ -33,7 +33,7 @@ I'm still uploading my personal projects one by one.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20mins-blue?style=flat)
 
@@ -78,25 +78,25 @@ Sunday                   7 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ███████████░░░░░░░░░░░░░░   45.46 % 
-JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+TypeScript               1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   40.71 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       ███████████████████████░░   93.40 % 
-Notepad++                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+VS Code                  2 hrs 50 mins       ██████████████████████░░░   88.20 % 
+Notepad++                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 🐱‍💻 Projects: 
-README                   1 hr 33 mins        ██████████████░░░░░░░░░░░   54.42 % 
-portfolio                54 mins             ████████░░░░░░░░░░░░░░░░░   31.34 % 
-Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-find_reason              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-test_conj                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+README                   1 hr 37 mins        █████████████░░░░░░░░░░░░   50.74 % 
+portfolio                1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Thesis                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+find_reason              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,5 +121,5 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 15:39:02 UTC
+ Last Updated on 12/08/2026 16:36:48 UTC
 <!--END_SECTION:waka-->
