@@ -41,9 +41,9 @@ I'm still uploading my personal projects one by one.
 
 **🐱 My GitHub Data** 
 
-> 📦 1.9 kB Used in GitHub's Storage 
+> 📦 2.0 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 34 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@ I'm still uploading my personal projects one by one.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
-🌆 Daytime                9 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-🌃 Evening                18 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
-🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌞 Morning                18 commits          █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌆 Daytime                9 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+🌃 Evening                19 commits          █████████░░░░░░░░░░░░░░░░   36.54 % 
+🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Tuesday                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Wednesday                17 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Tuesday                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Wednesday                17 commits          ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 15 commits          ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Sunday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Saturday                 15 commits          ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Sunday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 ```
 
 
@@ -108,9 +108,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
-TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -120,5 +121,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 14:08:19 UTC
+ Last Updated on 13/08/2026 15:39:22 UTC
 <!--END_SECTION:waka-->
