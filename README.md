@@ -41,9 +41,9 @@ I'm still uploading my personal projects one by one.
 
 **🐱 My GitHub Data** 
 
-> 📦 2.0 kB Used in GitHub's Storage 
+> 📦 2.2 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,5 +138,5 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 10:39:50 UTC
+ Last Updated on 14/08/2026 11:28:29 UTC
 <!--END_SECTION:waka-->
