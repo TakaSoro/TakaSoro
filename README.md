@@ -33,9 +33,9 @@ I'm still uploading my personal projects one by one.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -78,32 +78,32 @@ Sunday                   7 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   37.08 % 
-Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-JavaScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+TypeScript               1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.74 % 
+Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+JavaScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        ██████████████████████░░░   86.13 % 
-Notepad++                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Antigravity Desktop      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+VS Code                  3 hrs 4 mins        ██████████████████████░░░   86.26 % 
+Notepad++                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Antigravity Desktop      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🐱‍💻 Projects: 
-README                   1 hr 37 mins        ████████████░░░░░░░░░░░░░   46.21 % 
-portfolio                1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   38.02 % 
-Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Thesis                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-find_reason              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+README                   1 hr 37 mins        ███████████░░░░░░░░░░░░░░   45.79 % 
+portfolio                1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   38.58 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Thesis                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+find_reason              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (6.16%)
+⏱ AI Coding Time: 14 mins (6.61%)
 
 ✍️ 6 lines written by AI, 204 lines written by hand (2.86% AI-written)
 
@@ -119,7 +119,7 @@ Gemini                   6 lines             ███████████�
 🧑‍💻 Mostly Hands-On — 2.86% of written lines came from AI
 📝 Concise Prompter — average 468 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.66% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,5 +138,5 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 14:39:05 UTC
+ Last Updated on 14/08/2026 15:23:54 UTC
 <!--END_SECTION:waka-->
