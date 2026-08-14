@@ -43,32 +43,32 @@ I'm still uploading my personal projects one by one.
 
 > 📦 2.0 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18 commits          █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌆 Daytime                9 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-🌃 Evening                19 commits          █████████░░░░░░░░░░░░░░░░   36.54 % 
-🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+🌞 Morning                18 commits          ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌆 Daytime                9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+🌃 Evening                25 commits          ███████████░░░░░░░░░░░░░░   43.10 % 
+🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Tuesday                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Wednesday                17 commits          ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 15 commits          ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Sunday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Tuesday                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Wednesday                17 commits          ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Friday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Saturday                 15 commits          ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Sunday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 ```
 
 
@@ -125,10 +125,10 @@ Gemini                   6 lines             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -138,5 +138,5 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 08:48:10 UTC
+ Last Updated on 14/08/2026 10:39:50 UTC
 <!--END_SECTION:waka-->
