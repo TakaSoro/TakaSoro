@@ -41,7 +41,7 @@ I'm still uploading my personal projects one by one.
 
 **🐱 My GitHub Data** 
 
-> 📦 2.3 kB Used in GitHub's Storage 
+> 📦 2.4 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2026
  > 
@@ -54,21 +54,21 @@ I'm still uploading my personal projects one by one.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                19 commits          ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌆 Daytime                13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-🌃 Evening                33 commits          ███████████░░░░░░░░░░░░░░   45.83 % 
-🌙 Night                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+🌞 Morning                19 commits          ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+🌆 Daytime                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+🌃 Evening                35 commits          ████████████░░░░░░░░░░░░░   47.30 % 
+🌙 Night                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Tuesday                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Wednesday                17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Saturday                 27 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
-Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Tuesday                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Wednesday                17 commits          ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Saturday                 29 commits          ██████████░░░░░░░░░░░░░░░   39.19 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 
 
@@ -78,35 +78,35 @@ Sunday                   7 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
-Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Rust                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+TypeScript               4 hrs 57 mins       █████████████░░░░░░░░░░░░   52.10 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Rust                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       ████████████████░░░░░░░░░   62.61 % 
-Notepad++                2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
-Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Notepad++                4 hrs 59 mins       █████████████░░░░░░░░░░░░   52.39 % 
+VS Code                  4 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.30 % 
+Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-Journal                  2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.95 % 
-README                   1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-portfolio                1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-ConjFinder               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Journal                  4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.40 % 
+README                   2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+portfolio                1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+ConjFinder               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 Operating System: 
-Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (6.58%)
+⏱ AI Coding Time: 27 mins (4.87%)
 
-✍️ 1,856 lines written by AI, 349 lines written by hand (84.17% AI-written)
+✍️ 1,856 lines written by AI, 603 lines written by hand (75.48% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -118,10 +118,10 @@ Composer                 1,910 lines         ███████████�
 Gemini                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.17% of written lines came from AI
+🤖 AI-Driven — 75.48% of written lines came from AI
 📄 Detailed Prompter — average 522 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 25.77% of changed lines were hand-edited
+🚀 High AI Trust — 34.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -141,5 +141,5 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 12:38:47 UTC
+ Last Updated on 15/08/2026 15:02:00 UTC
 <!--END_SECTION:waka-->
