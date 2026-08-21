@@ -33,7 +33,7 @@ I'm still uploading my personal projects one by one.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%201%20min-blue?style=flat)
 
@@ -41,7 +41,7 @@ I'm still uploading my personal projects one by one.
 
 **🐱 My GitHub Data** 
 
-> 📦 2.7 kB Used in GitHub's Storage 
+> 📦 2.9 kB Used in GitHub's Storage 
  > 
 > 🏆 89 Contributions in the Year 2026
  > 
@@ -78,50 +78,48 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               7 hrs 46 mins       █████████████░░░░░░░░░░░░   52.70 % 
-Python                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Pony                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Rust                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Pony                     7 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
+TypeScript               7 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+C                        1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-Notepad++                9 hrs 35 mins       ████████████████░░░░░░░░░   65.02 % 
-VS Code                  5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.13 % 
-Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  13 hrs 42 mins      ███████████████░░░░░░░░░░   58.82 % 
+Notepad++                9 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-Journal                  5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
-README                   4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-secret_project           1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-portfolio                53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-R&E_26                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+secret_project           10 hrs 16 mins      ███████████░░░░░░░░░░░░░░   44.07 % 
+Journal                  5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+README                   4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+R&E_26                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Thesis                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 💻 Operating System: 
-Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (3.14%)
+⏱ AI Coding Time: 13 mins (0.98%)
 
-✍️ 1,856 lines written by AI, 11,976 lines written by hand (13.42% AI-written)
+✍️ 1,850 lines written by AI, 14,218 lines written by hand (11.51% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Composer                 1,910 lines         █████████████████████████   99.69 % 
-Gemini                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Composer                 1,910 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.42% of written lines came from AI
-📄 Detailed Prompter — average 522 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 91.99% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 11.51% of written lines came from AI
+📄 Detailed Prompter — average 631 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 93.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -141,5 +139,5 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 12:51:59 UTC
+ Last Updated on 21/08/2026 06:47:57 UTC
 <!--END_SECTION:waka-->
