@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/208436932?v=4" width="200" alt="TakaSoro Avatar" />
   
-  <h1>Hi, I'm TakaSoro</h1>
+  <h1>Hi, I'm Melphin</h1>
   <p>High School Student & Developer & Researcher</p>
 </div>
 
