@@ -8,13 +8,12 @@
 ---
 
 ### 👋 About Me
-Welcome to my GitHub profile. I am a developer passionate about showcasing research and software projects. I maintain a centralized portfolio to document my progress and technical projects.
+Welcome to my GitHub profile. I am a developer passionate about showcasing research and projects.
 
 ---
 
 ### 🛠 Tech Stack
-I enjoy working with modern web technologies to create clean, data-driven interfaces.
-*   **Languages:** JavaScript, Python, HTML, C, Pony
+*   **Languages:** JavaScript, TypeScript, Python, C, Pony
 *   **Libraries/Tools:** TODO
 
 ---
