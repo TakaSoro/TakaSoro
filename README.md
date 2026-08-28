@@ -43,7 +43,7 @@ I'm still uploading my personal projects one by one.
 
 > 📦 3.2 kB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2026
+> 🏆 127 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@ I'm still uploading my personal projects one by one.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                37 commits          ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-🌆 Daytime                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-🌃 Evening                59 commits          ███████████░░░░░░░░░░░░░░   45.04 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+🌞 Morning                37 commits          ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+🌆 Daytime                24 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌃 Evening                59 commits          ███████████░░░░░░░░░░░░░░   44.70 % 
+🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Tuesday                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Wednesday                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Saturday                 41 commits          ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Sunday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Tuesday                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Wednesday                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Saturday                 41 commits          ████████░░░░░░░░░░░░░░░░░   31.06 % 
+Sunday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
@@ -78,49 +78,30 @@ Sunday                   15 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Pony                     9 hrs 56 mins       ████████████████░░░░░░░░░   65.76 % 
-Python                   2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-C                        55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Pony                     7 hrs 41 mins       ████████████████░░░░░░░░░   62.23 % 
+Python                   2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+C                        54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 54 mins      █████████████████████████   98.67 % 
-Antigravity Desktop      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  12 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-secret_project           12 hrs 6 mins       ████████████████████░░░░░   80.08 % 
-protein-tda              1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Thesis                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-NBA_analysis-master      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Journal                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+secret_project           9 hrs 27 mins       ███████████████████░░░░░░   76.57 % 
+protein-tda              1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Thesis                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+NBA_analysis-master      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+portfolio                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Windows                  15 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (2.34%)
-
-✍️ 1,927 lines written by AI, 4,741 lines written by hand (28.9% AI-written)
-
-🔤 35 Input Tokens, 35 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 5 AI Prompts
-
-Composer                 2,695 lines         █████████████████████████   100.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.9% of written lines came from AI
-📄 Detailed Prompter — average 848 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 74.94% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -140,5 +121,5 @@ Typst                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 21:54:16 UTC
+ Last Updated on 28/08/2026 21:47:41 UTC
 <!--END_SECTION:waka-->
