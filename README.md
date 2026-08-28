@@ -28,6 +28,7 @@ I'm still uploading my personal projects one by one.
 
 ### 📬 Connect With Me
 *   **GitHub:** [github.com/TakaSoro](https://github.com/TakaSoro)
+*   **DOJ:** [doj.kr/melphin](https://doj.kr/en/user/melphin)
 
 ---
 
