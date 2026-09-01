@@ -42,38 +42,38 @@ I'm still uploading my personal projects one by one.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.4 kB Used in GitHub's Storage 
+> 📦 19.2 kB Used in GitHub's Storage 
  > 
-> 🏆 131 Contributions in the Year 2026
+> 🏆 151 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                37 commits          ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌆 Daytime                26 commits          █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-🌃 Evening                60 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+🌞 Morning                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+🌆 Daytime                41 commits          ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+🌃 Evening                66 commits          ██████████░░░░░░░░░░░░░░░   40.74 % 
+🌙 Night                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Tuesday                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Wednesday                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Saturday                 42 commits          ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Friday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Saturday                 42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 ```
 
 
@@ -129,11 +129,11 @@ Gemini                   36 lines            ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
-TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Pony                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Typst                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Pony                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -143,5 +143,5 @@ Typst                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 18:54:08 UTC
+ Last Updated on 01/09/2026 16:12:09 UTC
 <!--END_SECTION:waka-->
