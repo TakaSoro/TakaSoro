@@ -38,17 +38,17 @@ I'm still uploading my personal projects one by one.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 19.2 kB Used in GitHub's Storage 
+> 📦 20.4 kB Used in GitHub's Storage 
  > 
-> 🏆 151 Contributions in the Year 2026
+> 🏆 158 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,21 +59,21 @@ I'm still uploading my personal projects one by one.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-🌆 Daytime                41 commits          ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-🌃 Evening                66 commits          ██████████░░░░░░░░░░░░░░░   40.74 % 
-🌙 Night                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+🌞 Morning                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌆 Daytime                43 commits          ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌃 Evening                67 commits          ██████████░░░░░░░░░░░░░░░   40.61 % 
+🌙 Night                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Friday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Saturday                 42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+Wednesday                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Friday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Saturday                 42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 ```
 
 
@@ -83,33 +83,33 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   15 hrs 41 mins      ████████████████████░░░░░   79.30 % 
-Pony                     3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Python                   22 hrs 19 mins      ██████████████████████░░░   88.66 % 
+Pony                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 17 mins      ████████████████████████░   97.57 % 
-Antigravity Desktop      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+VS Code                  24 hrs 41 mins      █████████████████████████   98.09 % 
+Antigravity Desktop      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-R&E                      11 hrs 59 mins      ███████████████░░░░░░░░░░   60.63 % 
-secret_project           3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-cath_pdb                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-protein-tda              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-NBA_analysis-master      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+R&E                      11 hrs 59 mins      ████████████░░░░░░░░░░░░░   47.63 % 
+cath_pdb                 9 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.28 % 
+secret_project           1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+protein-tda              1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+NBA_analysis-master      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Windows                  19 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (6.16%)
+⏱ AI Coding Time: 1 hr 13 mins (4.84%)
 
-✍️ 36 lines written by AI, 28,794 lines written by hand (0.12% AI-written)
+✍️ 36 lines written by AI, 29,308 lines written by hand (0.12% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -143,5 +143,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 16:12:09 UTC
+ Last Updated on 02/09/2026 16:07:40 UTC
 <!--END_SECTION:waka-->
