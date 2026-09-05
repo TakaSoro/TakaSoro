@@ -42,13 +42,13 @@ I'm still uploading my personal projects one by one.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.0 kB Used in GitHub's Storage 
  > 
-> 🏆 171 Contributions in the Year 2026
+> 🏆 172 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,21 +59,21 @@ I'm still uploading my personal projects one by one.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                40 commits          ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌃 Evening                67 commits          █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌙 Night                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+🌞 Morning                41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+🌃 Evening                67 commits          █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌙 Night                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Wednesday                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Saturday                 43 commits          ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Wednesday                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Saturday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 
 
@@ -83,8 +83,8 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   26 hrs 2 mins       ███████████████████████░░   90.14 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python                   26 hrs 2 mins       ███████████████████████░░   90.12 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 Pony                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 Text                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
@@ -94,11 +94,11 @@ VS Code                  28 hrs 24 mins      ███████████�
 Antigravity Desktop      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🐱‍💻 Projects: 
-cath_pdb                 13 hrs 28 mins      ████████████░░░░░░░░░░░░░   46.67 % 
-R&E                      11 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   41.51 % 
+cath_pdb                 13 hrs 28 mins      ████████████░░░░░░░░░░░░░   46.65 % 
+R&E                      11 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   41.50 % 
 인지3주차                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 secret_project           49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Thesis                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Thesis                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 💻 Operating System: 
 Windows                  28 hrs 53 mins      █████████████████████████   100.00 % 
@@ -143,5 +143,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 15:54:44 UTC
+ Last Updated on 05/09/2026 14:44:57 UTC
 <!--END_SECTION:waka-->
