@@ -12,17 +12,6 @@ Welcome to my GitHub profile. I am a high school student passionate about showca
 
 ---
 
-### 🛠 Tech Stack
-*   **Languages:**
-    * JavaScript : 10 years
-    * TypeScript : 5 years
-    * Python : 7 years
-    * C : 1 year
-    * Pony : 2 month
-*   **Libraries/Tools:** TODO
-
----
-
 ### 🚀 Featured Projects
 
 TODO
