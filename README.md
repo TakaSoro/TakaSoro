@@ -72,33 +72,33 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   4 hrs 46 mins       ███████████████░░░░░░░░░░   58.33 % 
-JavaScript               1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+JavaScript               1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.62 % 
+Python                   1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.57 % 
+YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 5 mins        █████████████████████████   98.82 % 
-Antigravity Desktop      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+VS Code                  3 hrs 23 mins       ████████████████████████░   97.23 % 
+Antigravity Desktop      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-cath_pdb                 2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
-portfolio                2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-인지3주차                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Unknown Project          57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Thesis                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+portfolio                2 hrs 8 mins        ███████████████░░░░░░░░░░   61.48 % 
+Unknown Project          53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+developer-portfolio-websi14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+cath_pdb                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Thesis                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  8 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (4.51%)
+⏱ AI Coding Time: 22 mins (10.59%)
 
-✍️ 0 lines written by AI, 39,687 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 10,060 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -130,5 +130,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 15:58:22 UTC
+ Last Updated on 11/09/2026 16:01:48 UTC
 <!--END_SECTION:waka-->
