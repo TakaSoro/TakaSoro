@@ -27,7 +27,7 @@ I'm still uploading my personal projects one by one.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
@@ -72,44 +72,29 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.72 % 
-Python                   1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.64 % 
-YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JavaScript               44 mins             █████████░░░░░░░░░░░░░░░░   36.33 % 
+Python                   40 mins             ████████░░░░░░░░░░░░░░░░░   33.62 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       ████████████████████████░   97.23 % 
-Antigravity Desktop      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                2 hrs 8 mins        ███████████████░░░░░░░░░░   61.61 % 
-Unknown Project          53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-developer-portfolio-websi14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-cath_pdb                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+portfolio                1 hr 8 mins         ██████████████░░░░░░░░░░░   56.18 % 
+Unknown Project          28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Thesis                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+cath_pdb                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 
 💻 Operating System: 
-Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (10.61%)
-
-✍️ 0 lines written by AI, 10,060 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,682 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,5 +114,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 15:09:47 UTC
+ Last Updated on 13/09/2026 15:45:44 UTC
 <!--END_SECTION:waka-->
