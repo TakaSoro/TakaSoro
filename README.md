@@ -72,23 +72,17 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               44 mins             █████████░░░░░░░░░░░░░░░░   36.33 % 
-Python                   40 mins             ████████░░░░░░░░░░░░░░░░░   33.62 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Markdown                 7 mins              ██████████████░░░░░░░░░░░   57.02 % 
+Text                     5 mins              ███████████░░░░░░░░░░░░░░   42.98 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                1 hr 8 mins         ██████████████░░░░░░░░░░░   56.18 % 
-Unknown Project          28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Thesis                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-cath_pdb                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Thesis                   12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,5 +108,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 15:45:44 UTC
+ Last Updated on 14/09/2026 17:51:51 UTC
 <!--END_SECTION:waka-->
