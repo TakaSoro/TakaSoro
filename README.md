@@ -27,7 +27,7 @@ I'm still uploading my personal projects one by one.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
@@ -72,17 +72,20 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 mins              ██████████████░░░░░░░░░░░   57.02 % 
-Text                     5 mins              ███████████░░░░░░░░░░░░░░   42.98 % 
+HTML                     23 mins             ████████████████░░░░░░░░░   65.47 % 
+Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Text                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Thesis                   12 mins             █████████████████████████   100.00 % 
+easylogin                20 mins             ███████████████░░░░░░░░░░   58.37 % 
+Thesis                   12 mins             █████████░░░░░░░░░░░░░░░░   34.53 % 
+Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,5 +111,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 16:28:09 UTC
+ Last Updated on 16/09/2026 16:19:16 UTC
 <!--END_SECTION:waka-->
