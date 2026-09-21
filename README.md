@@ -31,7 +31,7 @@ I'm still uploading my personal projects one by one.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -111,5 +111,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 15:37:04 UTC
+ Last Updated on 21/09/2026 17:57:52 UTC
 <!--END_SECTION:waka-->
