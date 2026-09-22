@@ -29,7 +29,7 @@ New portfolio website in progress
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
@@ -39,32 +39,32 @@ New portfolio website in progress
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2026
+> 🏆 177 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌃 Evening                67 commits          █████████░░░░░░░░░░░░░░░░   36.81 % 
-🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+🌞 Morning                44 commits          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌃 Evening                69 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-Wednesday                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Saturday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Tuesday                  43 commits          ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Wednesday                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Thursday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Saturday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 
 
@@ -74,20 +74,21 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 42 mins        ████████████████████░░░░░   81.25 % 
-HTML                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 3 hrs 8 mins        ██████████████████████░░░   88.77 % 
+HTML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-인공지능                     1 hr 42 mins        ████████████████████░░░░░   81.30 % 
-easylogin                20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+인공지능                     3 hrs 9 mins        ██████████████████████░░░   88.94 % 
+easylogin                20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,8 +111,8 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/TakaSoro/TakaSoro/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/the-soro/the-soro/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 17:57:52 UTC
+ Last Updated on 22/09/2026 16:28:00 UTC
 <!--END_SECTION:waka-->
