@@ -18,6 +18,8 @@ TODO
 
 I'm still uploading my personal projects one by one.
 
+New portfolio website in progress
+
 ---
 
 ### 📬 Connect With Me
