@@ -33,7 +33,7 @@ New portfolio website in progress
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,21 +74,18 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 3 hrs 8 mins        ██████████████████████░░░   88.77 % 
-HTML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 3 hrs 8 mins        █████████████████████████   99.80 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-인공지능                     3 hrs 9 mins        ██████████████████████░░░   88.94 % 
-easylogin                20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+인공지능                     3 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,5 +111,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/the-soro/the-soro/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 16:28:00 UTC
+ Last Updated on 23/09/2026 16:18:00 UTC
 <!--END_SECTION:waka-->
